@@ -154,7 +154,7 @@ int main(){
     do
     {   int x,s,c,loc,pl;
         nodeptr p;
-        printf("\n\n * ****MAIN MENU * ****");
+        printf("\n\n ------ Linked List Operations Are -------");
         printf("\n 1: Insert node at the beginning");
         printf("\n 2: Insert node at the end");
         printf("\n 3: Insert node after a given node");
